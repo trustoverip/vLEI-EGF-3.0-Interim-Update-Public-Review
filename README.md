@@ -11,6 +11,6 @@ The following six documents of the vLEI EGF have been updated in the annual revi
 * Engagement Context Role Credential Framework
 
 Review templates have been provided for members to record their comments and questions.
-The ToIP public review will run until Friday, February 21, 2025.
+The ToIP public review will run until Friday, March 21st, 2025.
 
 Thank you and looking forward to your comments/questions.
